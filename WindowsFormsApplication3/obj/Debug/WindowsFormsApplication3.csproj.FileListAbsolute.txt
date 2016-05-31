@@ -1,0 +1,14 @@
+C:\Users\PI\Desktop\mojiPokusi\test\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\PI\Desktop\mojiPokusi\test\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\PI\Desktop\mojiPokusi\test\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\PI\Desktop\mojiPokusi\test\WindowsFormsApplication3\bin\Debug\ClassLibrary2.dll
+C:\Users\PI\Desktop\mojiPokusi\test\WindowsFormsApplication3\bin\Debug\ClassLibrary2.pdb
+C:\Users\PI\Desktop\mojiPokusi\test\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\PI\Desktop\mojiPokusi\test\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\PI\Desktop\mojiPokusi\test\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\PI\Desktop\mojiPokusi\test\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\PI\Desktop\mojiPokusi\test\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\PI\Desktop\mojiPokusi\test\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\PI\Desktop\mojiPokusi\test\DLL-test\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\PI\Desktop\mojiPokusi\test\DLL-test\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\PI\Desktop\mojiPokusi\test\DLL-test\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
